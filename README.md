@@ -13,4 +13,7 @@ Day 2 in the books, today I completed the second day of [JavaScript30](https://j
 a working analog clock with CSS and JavaScript which gave me a great review on the basic CSS animation options as well as setInterval with JavaScript.
 
 Finished off my time working on my version of one of the homework assignments our students had to do, a CLI app made with Node.js that generates a README for your GitHub repo. Have it mostly done, it generates a README just have to tweak it properly so it properly generates the links and
-"styling" with markdown which I hope to wrap up tomrrow. The repo for it can be found [here](https://github.com/tonythetiger323/README-generator/).
+"styling" with markdown which I hope to wrap up tomorrow. The repo for it can be found [here](https://github.com/tonythetiger323/README-generator/).
+
+### Day 3: December 26, 2020
+Completed the 3rd and 4th activities from [JavaScript30](https://javascript30.com). Activity 3 was updating CSS variables with vanilla JavaScript and activity 4 was a review on array methods. Having been out of practice for so long the array methods were a tad rusty, especially reduce so the reviews were very helpful and I will have to remember to spend much more time practicing them in the future.
