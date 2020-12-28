@@ -22,3 +22,8 @@ Completed the 3rd and 4th activities from [JavaScript30](https://javascript30.co
 Today started with activity 5 from [JavaScript30](https://javascript30.com) which included practicing CSS flex box and changing them with vanilla JavaScript. Wasn't super excited about this one as CSS and flex box are most certainly NOT my friend, but it did make me realize that they are simply skills I need more practice on so will be looking to do so in the near future, any recommendations on good sources for such are most definitely welcome! 
 
 Finished up by completing more of Udemy course I'm also working on [React Testing with Jest and Enzyme](https://www.udemy.com/share/101ZdQA0oddV9QR3Q=/) where we moved into setting up Redux for the app were making by configuring the store, setting up reducers, including the root reducer, setting up the actions and tests for all of the above. The course actually also offers a path of making the app with React hooks instead of Redux and I'm planning on doing it both ways as while I'm very familiar with Redux, I haven't taken much time to familiarize myself with React hooks and look forward to doing so!
+
+### Day 5: December 28, 2020
+Completed activity 6 of [JavaScript30](https://javascript30.com) which was pretty cool as did something I have never done before, make a type ahead with an AJAX call. While I have a working knowledge of RegEx was unaware of using "new RegExp()" in JS to create an expression which I found pretty cool
+
+Finished up by completing the current section of the [Udemy course](https://www.udemy.com/share/101ZdQA0oddV9QR3Q=/) I'm still working on which gave a nice review on testing connected components, something I haven't done in a loooooooooong time!
