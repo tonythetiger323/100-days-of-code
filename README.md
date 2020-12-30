@@ -27,3 +27,8 @@ Finished up by completing more of Udemy course I'm also working on [React Testin
 Completed activity 6 of [JavaScript30](https://javascript30.com) which was pretty cool as did something I have never done before, make a type ahead with an AJAX call. While I have a working knowledge of RegEx was unaware of using "new RegExp()" in JS to create an expression which I found pretty cool
 
 Finished up by completing the current section of the [Udemy course](https://www.udemy.com/share/101ZdQA0oddV9QR3Q=/) I'm still working on which gave a nice review on testing connected components, something I haven't done in a loooooooooong time!
+
+### Day 6: December 29, 2020
+Have been a little busier than normal as started moving out of my apartment today, and while I couldn't get in a full hour, wanted to make sure I got some coding in.
+
+I did manage to complete activity 7 of [JavaScript30](https://javascript30.com) which happened to be another one involving array methods, specifically some, every, find, findIndex, and splice. This time went ahead and challenged myself to actually work my own solutions as opposed to coding along with Wes Bos and was able to get them all on my own!
