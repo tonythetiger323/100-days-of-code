@@ -38,3 +38,8 @@ Moving out of my place was more work than originally planned/intended so needed 
 Completed activity 8 of [JavaScript30](https://javascript30.com) in which learn about the HTML canvas element and make a page where you draw on the screen with a brush that dynamically changes color and shape, which was pretty cool.
 
 To wrap things up, the last time I was working on the [Udemy course](https://www.udemy.com/share/101ZdQA0oddV9QR3Q=/) on TDD with React, I still had a couple of tests failing, and had to hunt to find the errors causing so, and as always, when the answer is hard to find, its a dumb syntactical error, which I was just discussing with a student in the bootcamp I TA for the other day, lol.
+
+### Day 8: January 7th, 2021
+Completed activity 9 of [JavaScript30](https://javascript30.com) which covered various console methods that can be used, most of which I'd never even heard of, which was cool. I particularly liked console.group and console.time interesting and may to try to using them in my development stages.
+
+Finished off by completing the current section I was working on for the [Udemy course](https://www.udemy.com/share/101ZdQA0oddV9QR3Q=/) I'm taking about TDD With React in which I finished up testing on the first connected component with out any Redux middleware and the next section covers testing with Redux Thunk which I'll start tomorrow.
