@@ -32,3 +32,9 @@ Finished up by completing the current section of the [Udemy course](https://www.
 Have been a little busier than normal as started moving out of my apartment today, and while I couldn't get in a full hour, wanted to make sure I got some coding in.
 
 I did manage to complete activity 7 of [JavaScript30](https://javascript30.com) which happened to be another one involving array methods, specifically some, every, find, findIndex, and splice. This time went ahead and challenged myself to actually work my own solutions as opposed to coding along with Wes Bos and was able to get them all on my own!
+### Day 7: January 6th, 2021
+Moving out of my place was more work than originally planned/intended so needed to put the challenge on pause, so am picking up right where I left off. 
+
+Completed activity 8 of [JavaScript30](https://javascript30.com) in which learn about the HTML canvas element and make a page where you draw on the screen with a brush that dynamically changes color and shape, which was pretty cool.
+
+To wrap things up, the last time I was working on the [Udemy course](https://www.udemy.com/share/101ZdQA0oddV9QR3Q=/) on TDD with React, I still had a couple of tests failing, and had to hunt to find the errors causing so, and as always, when the answer is hard to find, its a dumb syntactical error, which I was just discussing with a student in the bootcamp I TA for the other day, lol.
